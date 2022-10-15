@@ -30,6 +30,6 @@ async function Main(user, pass, text) {
     await browser.close();
 }
 
-module.exports = Main()
+module.export = Main()
 
 // ALL
