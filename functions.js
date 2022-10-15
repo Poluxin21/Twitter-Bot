@@ -30,6 +30,5 @@ async function Main(user, pass, text) {
     await browser.close();
 }
 
-module.export = Main()
-
+Main("usr", "pass", "text")
 // ALL
