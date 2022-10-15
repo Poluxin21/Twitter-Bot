@@ -34,5 +34,5 @@ async function Main(user, pass, text) {
     await browser.close();
 }
 
-Main("OnlyPolux", "guilherme1", "text")
+Main("usr", "pass", "text")
 // ALL
