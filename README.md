@@ -2,7 +2,7 @@
 I've never seen an open source of bots for twitter so I decided to start one
 
 # Preparation
-Open main.js file and put your login + text
+Open functions.js file and put your login + text
 
 # installation
 ```
