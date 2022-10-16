@@ -7,7 +7,7 @@ Open main.js file and put your login + text
 # installation
 ```
 npm i
-node main.js
+node function.js
 ```
 # Functions
 | Functions  | Verify |
