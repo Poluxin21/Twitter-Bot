@@ -8,6 +8,11 @@ Open main.js file and put your login + text
 npm i <br>
 node main.js
 
+# Functions
+| Functions  | Verify |
+| ------------- | ------------- |
+| Type Texts  | ✅  |
+
 # Whatsapp Group
 
 Legião Z : https://chat.whatsapp.com/HNNHhyWyXFgHAdOsPHrOWD
