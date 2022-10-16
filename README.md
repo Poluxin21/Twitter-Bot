@@ -5,9 +5,10 @@ I've never seen an open source of bots for twitter so I decided to start one
 Open main.js file and put your login + text
 
 # installation
-npm i <br>
+```
+npm i
 node main.js
-
+```
 # Functions
 | Functions  | Verify |
 | ------------- | ------------- |
