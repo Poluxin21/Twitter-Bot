@@ -12,7 +12,7 @@ function sleep(ms) {
 
 
 
-async function Main(user, pass, text) {
+async function tt(user, pass, text) {
     const browser = await puppeteer.launch({headless: false});
     const page = await browser.newPage();
     await page.goto('https://twitter.com/i/flow/login'); // Login
@@ -33,5 +33,5 @@ async function Main(user, pass, text) {
     await sleep(2000) 
 }
 
-Main("usr", "pass", "text")
+tt("usr", "pass", "text")
 // ALL
