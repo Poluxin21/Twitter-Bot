@@ -13,10 +13,5 @@ node index.js
 | Functions  | Verify |
 | ------------- | ------------- |
 | Type Texts  | ✅  |
-
-# Whatsapp Group
-
-Legião Z : https://chat.whatsapp.com/HNNHhyWyXFgHAdOsPHrOWD
-
 # End
 Thanks :)
